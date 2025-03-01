@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hey Everyone
 
-<!--
-**bashcr00k/bashcr00k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me : 
+- I am a computer science student who is interested in cybersecurity and binary exploitation.
 
-Here are some ideas to get you started:
+- I share everything i write here So more people can learn !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# To Do : 
+- Reflective Dll Injection  
+- Process Hollowing
+- Bypass windows defender
+
+I will finish these projects asap .
+
+
+
+steal other people's code
+learn
+adapt
+repeat
+rise
+
