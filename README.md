@@ -15,8 +15,14 @@ I will finish these projects asap .
 
 
 steal other people's code
+
 learn
+
 adapt
+
 repeat
+
 rise
+
+
 
