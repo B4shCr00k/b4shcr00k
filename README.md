@@ -1,7 +1,7 @@
 ## Hey Everyone
 
 ### About me : 
-- I am a computer science student who is interested in cybersecurity and binary exploitation.
+- I am a computer science student who is interested in offensive security,Malware Dev,Os Internals and binary exploitation.
 
 - I share everything i write here So more people can learn !
 
