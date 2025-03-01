@@ -13,6 +13,7 @@
 I will finish these projects asap .
 
 
+--------------------------------------------------
 
 steal other people's code
 
@@ -24,5 +25,6 @@ repeat
 
 rise
 
+--------------------------------------------------
 
 
