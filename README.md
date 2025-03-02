@@ -3,7 +3,7 @@
 ### About me : 
 - I am a computer science student who is interested in offensive security,Malware Dev,Os Internals and binary exploitation.
 
-- I share everything i write here So more people can learn !
+- The goal of sharing all these different projects is to simply document my work as well as helping anyone who wants to learn ! 
 
 # To Do : 
 - Reflective Dll Injection  
