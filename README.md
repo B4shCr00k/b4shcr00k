@@ -5,10 +5,14 @@
 
 - The goal of sharing all these different projects is to simply document my work as well as helping anyone who wants to learn ! 
 
+# Currently Working On : 
+-- Reflective Dll Injection 
+
 # To Do : 
-- Reflective Dll Injection  
 - Process Hollowing
 - Bypass windows defender
+- Heaven's Gate
+- Direct SysCalls
 
 I will finish these projects asap .
 
