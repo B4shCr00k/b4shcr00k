@@ -6,7 +6,7 @@
 - The goal of sharing all these different projects is to simply document my work as well as helping anyone who wants to learn ! 
 
 # Currently Working On : 
--- Process Hollowing
+-- Process Hollowing (will post the poc soon)
 
 # To Do Next (in order) : 
 - Direct SysCalls
