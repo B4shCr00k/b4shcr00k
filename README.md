@@ -6,11 +6,11 @@
 - The goal of sharing all these different projects is to simply document my work as well as helping anyone who wants to learn ! 
 
 # Currently Working On : 
--- Direct SysCalls (Hell's Gate)
+-- Heaven's Gate (my own hellsgate implementation
 
 # To Do Next (in order) : 
-- Heaven's Gate
-- Write A Malware That Evades Win Def
+- Obfuscation techniques
+- Start Writing real malware
 
 I will finish these projects asap .
 ### I haven't been active much lately but i tried to learn as much as i can to improve my malware writing techs But i will try to post more as hard as i can
