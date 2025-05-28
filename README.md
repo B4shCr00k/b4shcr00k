@@ -1,19 +1,19 @@
 ## Hey Everyone
 
 ### About me : 
-- I am a computer science student who is interested in offensive security,Malware Dev,Os Internals and binary exploitation.
+- a computer science student, interested in offensive security, Malware Dev, Os Internals and binary exploitation.
 
-- The goal of sharing all these different projects is to simply document my work as well as helping anyone who wants to learn ! 
+- The goal of sharing these projects is to simply document my work as well as to help anyone that wants to learn ! 
 
 # Currently Working On : 
--- Heaven's Gate (my own hellsgate implementation
+-- Heaven's Gate (my own hellsgate implementation) 
 
 # To Do Next (in order) : 
 - Obfuscation techniques
-- Start Writing real malware
+- Start Writing real malware ( for educational purposes only ofc ;) )
 
 I will finish these projects asap .
-### I haven't been active much lately but i tried to learn as much as i can to improve my malware writing techs But i will try to post more as hard as i can
+### I haven't been active much lately but i tried to learn as much as i can to improve my malware writing techs But i will try to post more.
 
 
 --------------------------------------------------
