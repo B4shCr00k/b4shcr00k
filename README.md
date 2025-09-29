@@ -8,13 +8,6 @@
 # Currently Working On : 
 -- Windows Rootkit
 
-# To Do Next (in order) : 
-------------------
-
-I will finish these projects asap .
-
-
-
 --------------------------------------------------
 
 steal other people's code
